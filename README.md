@@ -3,6 +3,8 @@ Full Stack Deep Learning Flask Application which uses CNN to predict the constel
 
 Project team members: Nicholas Foisy, Japmann Sarin, Fardin Abdullah
 
+Web App: http://canvastar-classifier.herokuapp.com/
+
 # Demo
 ![ezgif-5-42f4b7eda1](https://user-images.githubusercontent.com/73608018/148190274-2de9bf29-4357-4460-a728-75e6952cecdd.gif)
 
