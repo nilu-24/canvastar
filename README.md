@@ -27,5 +27,5 @@ Overall, this project was not only just about using a model to classify constell
 Since none of us are webmasters, we learnt a lot about deploying our machine learning model and also worked with flask, jquery, javascript, css and so much more. Moreover, we learnt a lot, not only about CNNs but also about working as a team!
 
 # What's next for CanvaStar
-We have so many plans for this app! We plan on generating more data to train the model to make it much more accurate. We also plan on integrating some features like displaying 'fun facts' about the constellation drawn.
+We have so many plans for this app! We plan on generating more data to train the model to make it much more accurate. We also plan on integrating some features like displaying 'fun facts' about the constellation drawn. We also want to make the webpage responsive since it is not responsive yet and also we want to make mobile versions of the web app!
 
