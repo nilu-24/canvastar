@@ -1,6 +1,10 @@
 # canvastar
 Full Stack Deep Learning Flask Application which uses CNN to predict the constellation the user draws on the canvas!
 
+# Demo
+![ezgif-5-42f4b7eda1](https://user-images.githubusercontent.com/73608018/148190274-2de9bf29-4357-4460-a728-75e6952cecdd.gif)
+
+
 # Note
 The model.h5 is not added here because the file was too large but the ipynb file is added which was used to create the model
 
