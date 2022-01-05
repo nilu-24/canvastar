@@ -8,7 +8,7 @@ The model.h5 is not added here because the file was too large but the ipynb file
 If you see a constellation, how can you tell which one it is? Before today, you would have to look through a table of all 88 constellations and compare and contrast. But now, you can draw the constellation and have it recognized using machine learning magic! We chose this problem because we had seen an earring in the shape of a constellation but we had no way of telling what it was. We also think it might be helpful for astronomical research and detection purposes too!
 
 # What it does
-The UI of the app has a canvas where the user can draw any constellation they want. The drawing on the HTML canvas is then fed into the deep learning model and the app then tells the user what constellation is drawn. The user can also learn more about the constellation as our website connects the user to the Wikipedia site of the constellation they drew.
+The UI of the app has a canvas where the user can draw any of the 14 constellations they want. The drawing on the HTML canvas is then fed into the deep learning model and the app then tells the user what constellation is drawn. The user can also learn more about the constellation as our website connects the user to the Wikipedia site of the constellation they drew.
 
 # How we built it
 We used a convolutional neural network in tensorflow to build the model and we experimented with different parameters and regularization methods. Later, we used flask to make a web application where the image drawn on an HTML canvas is fed to the model in the flask backend and the predicted constellation is returned. Our model has an accuracy of 90% on the testing dataset we created.
