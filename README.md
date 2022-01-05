@@ -1,6 +1,8 @@
 # canvastar
 Full Stack Deep Learning Flask Application which uses CNN to predict the constellation the user draws on the canvas!
 
+# Note
+The model.h5 is not added here because the file was too large but the ipynb file is added which was used to create the model
 
 # Inspiration
 If you see a constellation, how can you tell which one it is? Before today, you would have to look through a table of all 88 constellations and compare and contrast. But now, you can draw the constellation and have it recognized using machine learning magic! We chose this problem because we had seen an earring in the shape of a constellation but we had no way of telling what it was. We also think it might be helpful for astronomical research and detection purposes too!
